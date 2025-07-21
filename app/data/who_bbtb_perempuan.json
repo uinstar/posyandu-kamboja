@@ -1,0 +1,86 @@
+{
+    "65": {
+        "median": 7.5,
+        "sd_minus_2": 6.2
+    },
+    "66": {
+        "median": 7.7,
+        "sd_minus_2": 6.4
+    },
+    "67": {
+        "median": 7.9,
+        "sd_minus_2": 6.6
+    },
+    "68": {
+        "median": 8.1,
+        "sd_minus_2": 6.8
+    },
+    "69": {
+        "median": 8.3,
+        "sd_minus_2": 7.0
+    },
+    "70": {
+        "median": 8.5,
+        "sd_minus_2": 7.2
+    },
+    "71": {
+        "median": 8.7,
+        "sd_minus_2": 7.4
+    },
+    "72": {
+        "median": 8.9,
+        "sd_minus_2": 7.6
+    },
+    "73": {
+        "median": 9.1,
+        "sd_minus_2": 7.8
+    },
+    "74": {
+        "median": 9.3,
+        "sd_minus_2": 8.0
+    },
+    "75": {
+        "median": 9.5,
+        "sd_minus_2": 8.2
+    },
+    "76": {
+        "median": 9.7,
+        "sd_minus_2": 8.4
+    },
+    "77": {
+        "median": 9.9,
+        "sd_minus_2": 8.6
+    },
+    "78": {
+        "median": 10.1,
+        "sd_minus_2": 8.8
+    },
+    "79": {
+        "median": 10.3,
+        "sd_minus_2": 9.0
+    },
+    "80": {
+        "median": 10.5,
+        "sd_minus_2": 9.2
+    },
+    "81": {
+        "median": 10.7,
+        "sd_minus_2": 9.4
+    },
+    "82": {
+        "median": 10.9,
+        "sd_minus_2": 9.6
+    },
+    "83": {
+        "median": 11.1,
+        "sd_minus_2": 9.8
+    },
+    "84": {
+        "median": 11.3,
+        "sd_minus_2": 10.0
+    },
+    "85": {
+        "median": 11.5,
+        "sd_minus_2": 10.2
+    }
+}

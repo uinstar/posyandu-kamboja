@@ -1,0 +1,112 @@
+{
+    "65": {
+        "median": 7.7,
+        "sd_minus_2": 6.3,
+        "sd_minus_3": 5.7
+    },
+    "66": {
+        "median": 7.9,
+        "sd_minus_2": 6.5,
+        "sd_minus_3": 5.9
+    },
+    "67": {
+        "median": 8.1,
+        "sd_minus_2": 6.6,
+        "sd_minus_3": 6.0
+    },
+    "68": {
+        "median": 8.2,
+        "sd_minus_2": 6.8,
+        "sd_minus_3": 6.2
+    },
+    "69": {
+        "median": 8.4,
+        "sd_minus_2": 6.9,
+        "sd_minus_3": 6.3
+    },
+    "70": {
+        "median": 8.6,
+        "sd_minus_2": 7.1,
+        "sd_minus_3": 6.5
+    },
+    "71": {
+        "median": 8.8,
+        "sd_minus_2": 7.3,
+        "sd_minus_3": 6.7
+    },
+    "72": {
+        "median": 9.0,
+        "sd_minus_2": 7.4,
+        "sd_minus_3": 6.8
+    },
+    "73": {
+        "median": 9.2,
+        "sd_minus_2": 7.6,
+        "sd_minus_3": 7.0
+    },
+    "74": {
+        "median": 9.4,
+        "sd_minus_2": 7.7,
+        "sd_minus_3": 7.1
+    },
+    "75": {
+        "median": 9.6,
+        "sd_minus_2": 7.9,
+        "sd_minus_3": 7.3
+    },
+    "76": {
+        "median": 9.8,
+        "sd_minus_2": 8.1,
+        "sd_minus_3": 7.4
+    },
+    "77": {
+        "median": 10.0,
+        "sd_minus_2": 8.2,
+        "sd_minus_3": 7.6
+    },
+    "78": {
+        "median": 10.2,
+        "sd_minus_2": 8.4,
+        "sd_minus_3": 7.8
+    },
+    "79": {
+        "median": 10.4,
+        "sd_minus_2": 8.6,
+        "sd_minus_3": 7.9
+    },
+    "80": {
+        "median": 10.6,
+        "sd_minus_2": 8.7,
+        "sd_minus_3": 8.1
+    },
+    "81": {
+        "median": 10.8,
+        "sd_minus_2": 8.9,
+        "sd_minus_3": 8.2
+    },
+    "82": {
+        "median": 11.0,
+        "sd_minus_2": 9.1,
+        "sd_minus_3": 8.4
+    },
+    "83": {
+        "median": 11.1,
+        "sd_minus_2": 9.3,
+        "sd_minus_3": 8.5
+    },
+    "84": {
+        "median": 11.3,
+        "sd_minus_2": 9.4,
+        "sd_minus_3": 8.7
+    },
+    "85": {
+        "median": 11.5,
+        "sd_minus_2": 9.6,
+        "sd_minus_3": 8.8
+    },
+    "86": {
+        "median": 11.7,
+        "sd_minus_2": 9.8,
+        "sd_minus_3": 9.0
+    }
+}

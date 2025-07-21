@@ -1,0 +1,23 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#3220
+    [34mall[39m: [
+      [34;4mApp\Models\User[39;24m {#7153
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32mKetua Kader[39m",
+        [34memail[39m: "[32mketuakader@posyandu[39m",
+        [34mrole[39m: "[32mkader[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#7152
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mBidan Satu[39m",
+        [34memail[39m: "[32mbidan@posyandu.com[39m",
+        [34mrole[39m: "[32mbidan[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#7151
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mBidan[39m",
+        [34memail[39m: "[32mbidan@baru.com[39m",
+        [34mrole[39m: "[32mbidan[39m",
+      },
+    ],
+  }
+

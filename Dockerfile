@@ -33,6 +33,11 @@ COPY . .
 # Install PHP dependencies
 RUN composer install --no-dev --optimize-autoloader
 
+RUN php artisan storage:link && \
+    php artisan migrate --force && \
+    php artisan session:table && \
+    php artisan migrate --force
+
 # Laravel permissions (opsional tapi disarankan)
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 

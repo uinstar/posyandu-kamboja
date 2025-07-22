@@ -39,4 +39,4 @@ RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 # Expose port 8080
 EXPOSE 8080
 
-CMD ["/entrypoint.sh"]
+CMD ["./entrypoint.sh"]

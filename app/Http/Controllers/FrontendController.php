@@ -9,7 +9,7 @@ class FrontendController extends Controller
 {
     public function home()
     {
-        $count = DB::table('balita')->selectRaw('COUNT(*) as total')->value('total');
+        $jumlahBalita = Balita::count();
         $jumlahIbuHamil = IbuHamil::count();
         $jumlahLansia = Lansia::count();
 

@@ -1,16 +1,9 @@
 #!/bin/bash
 
-# Wait for DB to be ready (optional but recommended)
-echo "Waiting for database..."
-until php artisan migrate:status > /dev/null 2>&1; do
-    sleep 2
-done
+echo "Starting Laravel setup..."
+php artisan config:cache || echo "Config cache failed"
+php artisan storage:link || echo "Storage link failed"
+php artisan migrate --force || echo "Migration failed"
 
-# Laravel setup
-php artisan config:cache
-php artisan storage:link
-php artisan session:table || true
-php artisan migrate --force
-
-# Start Laravel dev server
-php artisan serve --host=0.0.0.0 --port=8000
+echo "Launching Laravel app..."
+exec php artisan serve --host=0.0.0.0 --port=8080

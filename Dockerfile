@@ -33,6 +33,9 @@ COPY . .
 # Install PHP dependencies
 RUN composer install --no-dev --optimize-autoloader
 
+# Install Node dependencies & build frontend
+RUN npm install && npm run build
+
 # Laravel permissions (opsional tapi disarankan)
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 

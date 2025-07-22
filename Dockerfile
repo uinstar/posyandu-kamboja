@@ -36,7 +36,9 @@ RUN composer install --no-dev --optimize-autoloader
 # Laravel permissions (opsional tapi disarankan)
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache
 
-# Expose port 8080
+COPY entrypoint.sh /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
 EXPOSE 8080
 
-CMD ["./entrypoint.sh"]
+CMD ["entrypoint.sh"]
